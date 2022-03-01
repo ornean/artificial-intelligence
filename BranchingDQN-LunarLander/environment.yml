@@ -1,0 +1,10 @@
+name: DQN-LunarLander
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - gym-box2d
+  - pytorch
+prefix: C:\Users\ornel\software\miniconda\miniconda3
