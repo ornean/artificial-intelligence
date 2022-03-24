@@ -9,6 +9,7 @@ import utils
 from model import DuelingNetwork
 from utils import ExperienceReplayMemory, AgentConfig, BranchingTensorEnv, init_seeds
 
+
 class BranchingDQN(nn.Module):
 
     def __init__(self, obs, ac, config):
