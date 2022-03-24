@@ -1,1 +1,1 @@
-# artificial-intelligence
+# cas-artificial-intelligence
